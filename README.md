@@ -1,6 +1,7 @@
 # flutterapp
 
 A new Flutter application.
+this help drivers to calculate hiring fee. thi application use flutter,dart languages
 
 ## Getting Started
 
